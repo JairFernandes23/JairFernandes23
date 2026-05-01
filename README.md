@@ -93,22 +93,6 @@ dev = {
   </a>
 </div>
 
----
-
-### 🐍 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JairFernandes23&theme=github-compact&hide_border=true&area=true" />
-</div>
-
----
-
-### 🌍 Idiomas
-
-| Idioma | Nível |
-|--------|-------|
-| 🇵🇹 Português | Nativo |
-| 🇬🇧 Inglês | Básico (em desenvolvimento) |
 
 ---
 
