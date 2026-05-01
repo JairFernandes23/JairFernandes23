@@ -23,6 +23,25 @@
 
 ---
 
+### 📸 Fotos dos Projetos
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="gallery/foto1.jpg" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto2.jpg" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto3.jpg" width="200" style="border-radius:8px" /></td>
+    </tr>
+    <tr>
+      <td><img src="gallery/foto4.jpg" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto5.jpg" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto6.jpg" width="200" style="border-radius:8px" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 👾 Sobre mim
 
 ```python
@@ -66,19 +85,6 @@ dev = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JairFernandes23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairFernandes23&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairFernandes23&theme=github-dark-blue&hide_border=true" />
-</div>
 
 ---
 
