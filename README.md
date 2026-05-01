@@ -23,21 +23,23 @@
 
 ---
 
-### 📸 Fotos dos Projetos
+### 🖥️ Projetos em Destaque
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="gallery/IMG_01.png" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/IMG_02.png" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/IMG_03.png" width="200" style="border-radius:8px" /></td>
-    </tr>
-    <tr>
-      <td><img src="gallery/IMG_04.png" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/IMG_05.png" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/IMG_06.png" width="200" style="border-radius:8px" /></td>
-    </tr>
-  </table>
+
+| E-Commerce | Imobiliária | Barbearia |
+|:---:|:---:|:---:|
+| [![Projeto 1](gallery/IMG_01.png)](gallery/IMG_01.png) | [![Projeto 2](gallery/IMG_03.png)](gallery/IMG_03.png) | [![Projeto 3](gallery/IMG_05.png)](gallery/IMG_05.png) |
+| **JF Mercadinho** | **JF Imobiliária** | **JF Barbearia** |
+
+<!-- SECÇÃO COMENTADA
+| Imobiliária | Barbearia | Portal |
+|:---:|:---:|:---:|
+| [![Projeto 4](gallery/IMG_02.png)](gallery/IMG_02.png) | [![Projeto 5](gallery/IMG_04.png)](gallery/IMG_04.png) | [![Projeto 6](gallery/IMG_06.png)](gallery/IMG_06.png) |
+| **Imóveis Luanda** | **JF Barbearia** | **Portal Web** |
+-->
+> 🔍 *Clica em qualquer imagem para ver em tamanho completo*
+
 </div>
 
 ---
