@@ -28,14 +28,14 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="gallery/foto1.jpg" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/foto2.jpg" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/foto3.jpg" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/IMG_03.png" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/IMG_09.png" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/IMG_02.png" width="200" style="border-radius:8px" /></td>
     </tr>
     <tr>
-      <td><img src="gallery/foto4.jpg" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/foto5.jpg" width="200" style="border-radius:8px" /></td>
-      <td><img src="gallery/foto6.jpg" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto4.png" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto5.png" width="200" style="border-radius:8px" /></td>
+      <td><img src="gallery/foto6.png" width="200" style="border-radius:8px" /></td>
     </tr>
   </table>
 </div>
