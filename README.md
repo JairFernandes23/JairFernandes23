@@ -30,11 +30,9 @@ dev = {
     "nome":        "Jair Fernandes de Campos",
     "role":        "Full Stack Developer & Técnico de Informática",
     "localização": "Luanda, Angola 🇦🇴",
-    "formação":    "Informática de Gestão — Universidade Gregório Semedo",
     "stack":       ["PHP", "HTML5", "CSS3", "Python", "MySQL"],
     "também":      ["Suporte técnico", "Redes LAN/Wi-Fi", "Manutenção de hardware"],
-    "foco":        "Criar soluções web robustas e eficientes",
-    "status":      "Em formação · Aberto a oportunidades 🚀"
+    "foco":        "Criar soluções web robustas e eficientes"
 }
 ```
 
@@ -68,33 +66,6 @@ dev = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 💼 Experiência
-
-```
-🔧 Suporte Técnico (Helpdesk Nível 1)
-   ├── Montagem, reparação e manutenção de computadores e periféricos
-   ├── Instalação e configuração de Windows 7, 10 e 11
-   ├── Configuração de redes domésticas Wi-Fi e LAN
-   └── Diagnóstico e resolução de problemas de hardware e software
-
-🌐 Desenvolvimento Web
-   ├── Desenvolvimento de páginas web com HTML, CSS e PHP
-   ├── Trabalhos práticos de base de dados (MySQL)
-   └── Projectos académicos e pessoais no GitHub
-```
-
----
-
-### 🎓 Formação
-
-| | |
-|---|---|
-| 🏛️ | **Licenciatura em Informática de Gestão** |
-| | Universidade Gregório Semedo — Luanda, Morro Bento |
-| | 2020 – Em curso |
 
 ---
 
