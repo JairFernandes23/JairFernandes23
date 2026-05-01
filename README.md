@@ -82,20 +82,6 @@ dev = {
 
 ---
 
-### 📌 Projectos em Destaque
-
-<div align="center">
-  <a href="https://github.com/JairFernandes23/JF_MERCADINHO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JairFernandes23&repo=JF_MERCADINHO&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/JairFernandes23/PROJECTO_TCC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JairFernandes23&repo=PROJECTO_TCC&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JairFernandes23&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" />
 </p>
