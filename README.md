@@ -1,12 +1,26 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3Chello+world+%2F%3E;Full+Stack+Developer;PHP+%7C+HTML5+%7C+CSS3+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3Chello+world+%2F%3E;Full+Stack+Developer+%7C+Luanda%2C+Angola;PHP+%7C+HTML5+%7C+CSS3+%7C+Python+%7C+MySQL;Sempre+a+aprender%2C+sempre+a+evoluir+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Jair Fernandes</h1>
+<br/>
+
+<h1 align="center">Jair Fernandes de Campos</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Luanda-Angola-009A44?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aberto%20a-Oportunidades-3fb950?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="mailto:jairfernandes4333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jairfernandes4333-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JairFernandes23">
+    <img src="https://img.shields.io/badge/GitHub-JairFernandes23-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/WhatsApp-+244 937 527 765-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </p>
 
 ---
@@ -15,11 +29,14 @@
 
 ```python
 dev = {
-    "nome":    "Jair Fernandes",
-    "role":    "Full Stack Developer",
-    "stack":   ["PHP", "HTML5", "CSS3", "Python"],
-    "foco":    "Criar soluções web robustas e eficientes",
-    "github":  "JairFernandes23"
+    "nome":        "Jair Fernandes de Campos",
+    "role":        "Full Stack Developer & Técnico de Informática",
+    "localização": "Luanda, Angola 🇦🇴",
+    "formação":    "Informática de Gestão — Universidade Gregório Semedo",
+    "stack":       ["PHP", "HTML5", "CSS3", "Python", "MySQL"],
+    "também":      ["Suporte técnico", "Redes LAN/Wi-Fi", "Manutenção de hardware"],
+    "foco":        "Criar soluções web robustas e eficientes",
+    "status":      "Em formação · Aberto a oportunidades 🚀"
 }
 ```
 
@@ -27,20 +44,67 @@ dev = {
 
 ### 🛠️ Tech Stack
 
+**Web & Programação**
+
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+**Infraestrutura & Suporte**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redes LAN%2FWi--Fi-00B4D8?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Manutenção-555555?style=for-the-badge&logo=dell&logoColor=white" />
+</p>
+
+**Ferramentas**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 💼 Experiência
+
+```
+🔧 Suporte Técnico (Helpdesk Nível 1)
+   ├── Montagem, reparação e manutenção de computadores e periféricos
+   ├── Instalação e configuração de Windows 7, 10 e 11
+   ├── Configuração de redes domésticas Wi-Fi e LAN
+   └── Diagnóstico e resolução de problemas de hardware e software
+
+🌐 Desenvolvimento Web
+   ├── Desenvolvimento de páginas web com HTML, CSS e PHP
+   ├── Trabalhos práticos de base de dados (MySQL)
+   └── Projectos académicos e pessoais no GitHub
+```
+
+---
+
+### 🎓 Formação
+
+| | |
+|---|---|
+| 🏛️ | **Licenciatura em Informática de Gestão** |
+| | Universidade Gregório Semedo — Luanda, Morro Bento |
+| | 2020 – Em curso |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JairFernandes23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairFernandes23&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JairFernandes23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairFernandes23&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
 </div>
 
 <div align="center">
@@ -49,16 +113,14 @@ dev = {
 
 ---
 
-### 📌 Projetos em Destaque
-
-> Atualize os nomes dos repositórios abaixo com os seus projetos reais
+### 📌 Projectos em Destaque
 
 <div align="center">
-  <a href="https://github.com/JairFernandes23/SEU-REPOSITORIO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JairFernandes23&repo=SEU-REPOSITORIO-1&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/JairFernandes23/JF_MERCADINHO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JairFernandes23&repo=JF_MERCADINHO&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/JairFernandes23/SEU-REPOSITORIO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JairFernandes23&repo=SEU-REPOSITORIO-2&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/JairFernandes23/PROJECTO_TCC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JairFernandes23&repo=PROJECTO_TCC&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
@@ -72,10 +134,19 @@ dev = {
 
 ---
 
+### 🌍 Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| 🇵🇹 Português | Nativo |
+| 🇬🇧 Inglês | Básico (em desenvolvimento) |
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JairFernandes23&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
 <p align="center">
-  <i>Made with ❤️ by JairFernandes23</i>
+  <i>💻 Feito com dedicação por Jair Fernandes · Luanda, Angola 🇦🇴</i>
 </p>
