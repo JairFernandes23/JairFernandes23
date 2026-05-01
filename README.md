@@ -23,14 +23,14 @@
 
 ---
 
-### 🖥️ Projetos em Destaque
+### 🖥️ Fotos dos Projetos
 
 <div align="center">
 
 | E-Commerce | Imobiliária | Barbearia |
 |:---:|:---:|:---:|
 | [![Projeto 1](gallery/IMG_01.png)](gallery/IMG_01.png) | [![Projeto 2](gallery/IMG_03.png)](gallery/IMG_03.png) | [![Projeto 3](gallery/IMG_05.png)](gallery/IMG_05.png) |
-| **JF Mercadinho** | **JF Imobiliária** | **JF Barbearia** |
+
 
 <!-- SECÇÃO COMENTADA
 | Imobiliária | Barbearia | Portal |
