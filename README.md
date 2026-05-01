@@ -14,13 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jairfernandes4333@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jairfernandes4333-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+ 
   <a href="https://github.com/JairFernandes23">
     <img src="https://img.shields.io/badge/GitHub-JairFernandes23-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/WhatsApp-+244 937 527 765-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+
 </p>
 
 ---
